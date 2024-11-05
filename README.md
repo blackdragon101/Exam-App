@@ -10,6 +10,13 @@ a simple yet effective command-line interface while enhancing time management th
 - **Subject-Based Question Bank:** A comprehensive set of ECAT-style questions covering all required subjects, with easy customization options.
 - **Scoring:** Tracks correct and incorrect responses, delivering a final score summary at the end.
 - **User-Friendly Terminal Interface:** Straightforward prompts guide users through each question, making navigation easy.
+- **Result:** The Final result is provided to the student and the number of attempted and skipped questions count is also given along with the marksheet.
+
+## Screebshots
+![Exam Starting point](https://github.com/user-attachments/assets/fbf83121-74c0-4310-a362-1ae7c18130db)
+![Interface on Terminal](https://github.com/user-attachments/assets/fc75640c-f0f2-42e0-8e47-3a276900819a)
+![Timer GUI](https://github.com/user-attachments/assets/2b240367-1059-4779-a485-71189432342e)
+![End Result](https://github.com/user-attachments/assets/6d72c790-44bd-4e55-897d-99348de47310)
 
 ## Installation
 
@@ -55,4 +62,4 @@ a simple yet effective command-line interface while enhancing time management th
 
 ## Contact
 
-For any questions or more information, please contact [Fatima Masood](mailto:fammasood8404@outlook.com).
+For any questions or more information, please contact [BlackDragon101](mailto:fammasood8404@outlook.com).
